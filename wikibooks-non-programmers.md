@@ -6,8 +6,8 @@ by Josh Cogliati
 `#NonProgrammers` `#Beginners` `#Python3`
 
 [Authors](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Authors)  
+[Front matter](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Front_matter)  
 ```
-Front matter
 Intro
 Hello, World
 Who Goes There?
